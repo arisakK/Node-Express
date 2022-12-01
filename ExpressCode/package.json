@@ -1,0 +1,21 @@
+{
+  "name": "expresscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audit": "^0.0.6",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "fund": "^1.0.0",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.20",
+    "npm-git-install": "^0.3.0"
+  }
+}
